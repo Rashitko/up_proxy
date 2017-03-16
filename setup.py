@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='up_proxy',
     version='0.5',
-    packages=['up_proxy'],
+    packages=[],
     url='',
     license='',
     author='Michal Raska',
